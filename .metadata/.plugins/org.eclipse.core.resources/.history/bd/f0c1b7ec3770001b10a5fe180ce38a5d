@@ -1,0 +1,10 @@
+package practice;
+
+public class ReverseOfaNumber {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

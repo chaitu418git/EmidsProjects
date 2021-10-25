@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner (3)" project="SeleniumCucumber" tests="2" started="2" failures="0" errors="1" ignored="0">
+  <testsuite name="testRunner.TestRunner" time="0.281">
+    <testsuite name="Customers" time="0.281">
+      <testcase name="Add a new Customer" classname="Customers" time="0.21"/>
+      <testcase name="Search customer by Emailid" classname="Customers" time="0.071">
+        <error>io.cucumber.junit.UndefinedStepException: The step 'user entered email in Email field' and 2 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@When("user entered email in Email field")
+public void user_entered_email_in_email_field() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user click on Search button")
+public void user_click_on_search_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("search results related to email will be displayed")
+public void search_results_related_to_email_will_be_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

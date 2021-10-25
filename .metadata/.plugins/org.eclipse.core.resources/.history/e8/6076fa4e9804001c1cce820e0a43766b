@@ -1,0 +1,13 @@
+package practice11;
+
+public class RevEachWord {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+String s="test one two three";
+String revString="";
+String[] str=s.split(" ");
+
+	}
+
+}

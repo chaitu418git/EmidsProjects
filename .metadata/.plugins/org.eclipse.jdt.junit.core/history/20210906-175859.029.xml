@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner (3)" project="SeleniumCucumber" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="testRunner.TestRunner" time="9.882">
+    <testsuite name="Customers" time="9.882">
+      <testcase name="Add a new Customer" classname="Customers" time="9.882">
+        <error>java.lang.NullPointerException&#13;
+	at stepDefinitions.Steps.user_can_view_dashboard(Steps.java:69)&#13;
+	at ✽.user can view Dashboard(file:///D:/Users/XP.Chaitanya.Buddi/eclipse-workspace/SeleniumCucumber/./Features/Customers.feature:7)&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

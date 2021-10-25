@@ -1,0 +1,16 @@
+package collections;
+import java.util.*;
+public class ArrList {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ArrayList<String> list=new ArrayList<String>();
+		
+		list.add("zbf");
+		list.add("abdd");
+		list.add("yht");
+		list.add("bbgyt");
+
+	}
+
+}

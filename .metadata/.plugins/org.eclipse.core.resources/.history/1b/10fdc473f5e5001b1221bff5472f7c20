@@ -1,0 +1,22 @@
+package practice1;
+
+import javax.smartcardio.ATR;
+
+public class DupsFromString {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+String s="ghjhgytygdagf satr fgfdfgmnbqw";
+char[] strarr=s.toCharArray();
+int count=0;
+for(int i=0;i<strarr.length;i++)
+{
+	count=1;
+	for(int j=0;j<strarr.length;j++)
+	{
+		if(strarr[i]==strarr[j])
+	}
+}
+	}
+
+}

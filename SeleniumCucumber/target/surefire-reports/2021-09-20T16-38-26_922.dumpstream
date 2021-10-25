@@ -1,0 +1,4 @@
+# Created at 2021-09-20T16:38:27.524
+Boot Manifest-JAR contains absolute paths in classpath 'C:\Program Files\Java\jdk1.8.0_301\lib\tools.jar'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

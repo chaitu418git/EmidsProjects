@@ -1,0 +1,11 @@
+package practice9;
+
+public class SortingArray {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int [] array= {10,5,1,3,2};
+
+	}
+
+}

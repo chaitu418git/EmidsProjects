@@ -1,0 +1,11 @@
+package practice15;
+
+public class AlternativeElementsinArray {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int[] array={23,43,54,63,73,83,92,13,56};
+
+	}
+
+}

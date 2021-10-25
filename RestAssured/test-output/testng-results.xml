@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4804" started-at="2021-06-28T15:49:30 IST" finished-at="2021-06-28T15:49:35 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4804" started-at="2021-06-28T15:49:30 IST" finished-at="2021-06-28T15:49:35 IST">
+      <class name="automation.RestAssured.DynamicJson">
+        <test-method status="PASS" signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:automation.RestAssured.DynamicJson@7e2d773b]" name="addBook" duration-ms="3531" started-at="2021-06-28T15:49:30 IST" data-provider="BooksData" finished-at="2021-06-28T15:49:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hjhhy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[98743]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method status="PASS" signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:automation.RestAssured.DynamicJson@7e2d773b]" name="addBook" duration-ms="605" started-at="2021-06-28T15:49:34 IST" data-provider="BooksData" finished-at="2021-06-28T15:49:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kkjjg]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[08975]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method status="PASS" signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:automation.RestAssured.DynamicJson@7e2d773b]" name="addBook" duration-ms="597" started-at="2021-06-28T15:49:34 IST" data-provider="BooksData" finished-at="2021-06-28T15:49:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ftre]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8343]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+      </class> <!-- automation.RestAssured.DynamicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

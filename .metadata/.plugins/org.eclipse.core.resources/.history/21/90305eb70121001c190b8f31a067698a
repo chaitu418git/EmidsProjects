@@ -1,0 +1,16 @@
+package testPack;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class PieChart {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.setProperty("webdriver.chrome.driver", "D:\\chromedriver_win32 (3)\\chromedriver.exe");
+		WebDriver driver=new ChromeDriver();
+		driver.get("https://www.w3schools.com/howto/howto_google_charts.asp");
+	driver.manage().window().maximize();
+	}
+
+}

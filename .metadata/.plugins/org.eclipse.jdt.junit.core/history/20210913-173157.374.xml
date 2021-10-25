@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner (3)" project="SeleniumCucumber" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="testRunner.TestRunner" time="38.482">
+    <testsuite name="Customers" time="38.482">
+      <testcase name="Add a new Customer" classname="Customers" time="24.734"/>
+      <testcase name="Search customer by Emailid" classname="Customers" time="13.748"/>
+    </testsuite>
+  </testsuite>
+</testrun>

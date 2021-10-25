@@ -1,0 +1,10 @@
+package practicee;
+
+public class DuplicateElementsfromArray {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

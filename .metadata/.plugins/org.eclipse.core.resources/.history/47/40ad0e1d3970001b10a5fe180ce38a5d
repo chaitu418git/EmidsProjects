@@ -1,0 +1,15 @@
+package practice;
+
+public class ReverseOfaNumber {
+
+	public static void main(String[] args) {
+		
+int num=1234;
+int rev_num=0;
+for(int i=0;i<num;i++)
+{
+	
+}
+	}
+
+}

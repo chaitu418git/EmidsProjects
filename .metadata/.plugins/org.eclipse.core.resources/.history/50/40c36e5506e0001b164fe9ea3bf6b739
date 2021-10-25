@@ -1,0 +1,15 @@
+package programsPract;
+
+public class ArmStrongNumber {
+public static int checkArmStrongNumber(int num)
+{
+	
+	return num;
+	
+}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package programsPract;
+
+public class ArrsyDupElements {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int[]a1= {1,4,5,1,6,8,6,0};
+	}
+
+}

@@ -1,0 +1,15 @@
+package practicee;
+
+public class RemoveWhiteSpaces {
+
+	public static void main(String[] args) {
+		String inputString="test test hello hu";
+		
+		System.out.println("with replaceALL");
+		String witnoutSpaces=inputString.replaceAll("//s"," ");
+		System.out.println(inputString);
+		System.out.println(witnoutSpaces);
+
+	}
+
+}

@@ -1,0 +1,12 @@
+package practicee;
+
+public class Employee {
+
+	String name;
+	int age;
+	int salary;
+	public Employee(String name,int age, int salary)
+
+	}
+
+}

@@ -1,0 +1,18 @@
+Feature: Customers
+ 
+Scenario: Search customer by FirstName
+ Given User Launch Chrome browser
+ And user opens URL "https://admin-demo.nopcommerce.com/login"
+ And user enters Email as "admin@yourstore.com" and password as "admin"
+ When user click on Login
+ Then user can view Dashboard
+ When user click on Customers Menu
+ And click on customers Menu Item
+ And user landed on Customers Page
+ And user entered firstname as "a" in FirstName field
+ When user click on Search button
+ Then search results related to FirstName "a" will be displayed
+ And close browser
+ 
+ 
+ 

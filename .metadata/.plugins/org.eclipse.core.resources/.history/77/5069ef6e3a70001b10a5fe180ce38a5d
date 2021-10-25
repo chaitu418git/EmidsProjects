@@ -1,0 +1,13 @@
+package practice;
+
+public class SwaptwoNumbersusingThirdVar {
+
+	public static void main(String[] args) {
+		int x=5;
+		int y=6;
+		int temp=x;
+		x=y;
+		y=temp;
+	}
+
+}

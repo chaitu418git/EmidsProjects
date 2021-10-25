@@ -1,0 +1,21 @@
+package test1;
+
+import org.testng.annotations.Test;
+
+public class Day3 {
+	@Test
+	public void day3mngdemo(String username, String password)
+	{
+		System.out.println("day 3 mng demo");
+		System.out.println(username);
+		System.out.println(password);
+	}
+
+	@Test
+	public void day3evngdemo(String url)
+	{
+		System.out.println("day 3 evnbg demo");
+		System.out.println(url);
+		//Assert.assertTrue(false);
+	}
+}

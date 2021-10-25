@@ -1,0 +1,18 @@
+package practice;
+
+import java.util.HashMap;
+import java.util.Scanner;
+
+public class HashMapCountnumofWords {
+
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		String sentence = sc.nextLine();
+		String[] str = sentence.split(" ");
+		HashMap<String, Integer> map=new HashMap<String, Integer>();
+		
+		
+
+	}
+
+}

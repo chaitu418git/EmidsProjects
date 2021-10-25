@@ -1,0 +1,166 @@
+2021-09-13 17:32:01,991 - nopcommerce -INFO - launching browser
+2021-09-13 17:32:02,208 - nopcommerce -INFO - opening the url
+2021-09-13 17:32:03,725 - nopcommerce -INFO - providing login details
+2021-09-13 17:32:10,440 - nopcommerce -INFO - clicked on ,login
+2021-09-13 17:32:22,110 - nopcommerce -INFO - closed the browser
+2021-09-13 17:32:25,424 - nopcommerce -INFO - launching browser
+2021-09-13 17:32:25,549 - nopcommerce -INFO - opening the url
+2021-09-13 17:32:26,623 - nopcommerce -INFO - providing login details
+2021-09-13 17:32:31,266 - nopcommerce -INFO - clicked on ,login
+2021-09-13 17:32:35,794 - nopcommerce -INFO - closed the browser
+2021-09-13 17:36:57,948 - nopcommerce -INFO - launching browser
+2021-09-13 17:36:58,147 - nopcommerce -INFO - opening the url
+2021-09-13 17:36:59,411 - nopcommerce -INFO - providing login details
+2021-09-13 17:37:04,364 - nopcommerce -INFO - clicked on ,login
+2021-09-13 17:37:16,876 - nopcommerce -INFO - closed the browser
+2021-09-13 17:37:20,219 - nopcommerce -INFO - launching browser
+2021-09-13 17:37:20,346 - nopcommerce -INFO - opening the url
+2021-09-13 17:37:24,329 - nopcommerce -INFO - providing login details
+2021-09-13 17:37:31,748 - nopcommerce -INFO - clicked on ,login
+2021-09-13 17:37:37,261 - nopcommerce -INFO - closed the browser
+2021-09-13 17:37:40,457 - nopcommerce -INFO - launching browser
+2021-09-13 17:37:40,582 - nopcommerce -INFO - opening the url
+2021-09-13 17:37:44,249 - nopcommerce -INFO - providing login details
+2021-09-13 17:37:51,437 - nopcommerce -INFO - clicked on ,login
+2021-09-13 17:37:51,504 - nopcommerce -INFO - Login passed
+2021-09-13 17:37:53,405 - nopcommerce -INFO - clicked on logout
+2021-09-13 17:37:53,419 - nopcommerce -INFO - Login passed
+2021-09-13 17:37:54,098 - nopcommerce -INFO - closed the browser
+2021-09-13 17:37:57,285 - nopcommerce -INFO - launching browser
+2021-09-13 17:37:57,415 - nopcommerce -INFO - opening the url
+2021-09-13 17:38:02,003 - nopcommerce -INFO - providing login details
+2021-09-13 17:38:08,228 - nopcommerce -INFO - clicked on ,login
+2021-09-13 17:38:08,283 - nopcommerce -INFO - Login passed
+2021-09-13 17:38:10,388 - nopcommerce -INFO - clicked on logout
+2021-09-13 17:38:10,401 - nopcommerce -INFO - Login passed
+2021-09-13 17:38:10,950 - nopcommerce -INFO - closed the browser
+2021-09-13 17:38:14,162 - nopcommerce -INFO - launching browser
+2021-09-13 17:38:14,294 - nopcommerce -INFO - opening the url
+2021-09-13 17:38:15,816 - nopcommerce -INFO - providing login details
+2021-09-13 17:38:16,817 - nopcommerce -INFO - clicked on ,login
+2021-09-13 17:38:17,196 - nopcommerce -INFO - Login failed
+2021-09-13 18:08:47,589 - nopcommerce -INFO - launching chrome browser
+2021-09-13 18:08:47,652 - nopcommerce -INFO - opening the url
+2021-09-13 18:08:49,473 - nopcommerce -INFO - providing login details
+2021-09-13 18:08:56,469 - nopcommerce -INFO - clicked on ,login
+2021-09-13 18:08:56,537 - nopcommerce -INFO - Login passed
+2021-09-13 18:08:58,019 - nopcommerce -INFO - clicked on logout
+2021-09-13 18:08:58,036 - nopcommerce -INFO - Login passed
+2021-09-13 18:08:58,569 - nopcommerce -INFO - closed the browser
+2021-09-13 18:09:01,765 - nopcommerce -INFO - launching chrome browser
+2021-09-13 18:09:01,768 - nopcommerce -INFO - opening the url
+2021-09-13 18:09:04,175 - nopcommerce -INFO - providing login details
+2021-09-13 18:09:09,547 - nopcommerce -INFO - clicked on ,login
+2021-09-13 18:09:09,636 - nopcommerce -INFO - Login passed
+2021-09-13 18:09:12,147 - nopcommerce -INFO - clicked on logout
+2021-09-13 18:09:12,162 - nopcommerce -INFO - Login passed
+2021-09-13 18:09:12,714 - nopcommerce -INFO - closed the browser
+2021-09-13 18:09:15,920 - nopcommerce -INFO - launching chrome browser
+2021-09-13 18:09:15,925 - nopcommerce -INFO - opening the url
+2021-09-13 18:09:17,285 - nopcommerce -INFO - providing login details
+2021-09-13 18:09:18,378 - nopcommerce -INFO - clicked on ,login
+2021-09-13 18:09:18,973 - nopcommerce -INFO - Login failed
+2021-09-14 10:38:35,339 - nopcommerce -INFO - launching chrome browser
+2021-09-14 10:38:35,401 - nopcommerce -INFO - opening the url
+2021-09-14 10:38:39,134 - nopcommerce -INFO - providing login details
+2021-09-14 10:38:45,931 - nopcommerce -INFO - clicked on ,login
+2021-09-14 10:38:59,439 - nopcommerce -INFO - closed the browser
+2021-09-14 10:39:02,810 - nopcommerce -INFO - launching chrome browser
+2021-09-14 10:39:02,814 - nopcommerce -INFO - opening the url
+2021-09-14 10:39:04,338 - nopcommerce -INFO - providing login details
+2021-09-14 10:39:09,545 - nopcommerce -INFO - clicked on ,login
+2021-09-14 10:39:09,616 - nopcommerce -INFO - Login passed
+2021-09-14 10:39:11,953 - nopcommerce -INFO - clicked on logout
+2021-09-14 10:39:11,966 - nopcommerce -INFO - Login passed
+2021-09-14 10:39:12,482 - nopcommerce -INFO - closed the browser
+2021-09-14 10:42:50,787 - nopcommerce -INFO - launching chrome browser
+2021-09-14 10:42:50,860 - nopcommerce -INFO - opening the url
+2021-09-14 10:42:54,037 - nopcommerce -INFO - providing login details
+2021-09-14 10:42:59,263 - nopcommerce -INFO - clicked on ,login
+2021-09-14 10:43:03,605 - nopcommerce -INFO - closed the browser
+2021-09-14 10:43:06,920 - nopcommerce -INFO - launching chrome browser
+2021-09-14 10:43:06,923 - nopcommerce -INFO - opening the url
+2021-09-14 10:43:08,544 - nopcommerce -INFO - providing login details
+2021-09-14 10:43:13,309 - nopcommerce -INFO - clicked on ,login
+2021-09-14 10:43:13,380 - nopcommerce -INFO - Login passed
+2021-09-14 10:43:15,120 - nopcommerce -INFO - clicked on logout
+2021-09-14 10:43:15,133 - nopcommerce -INFO - Login passed
+2021-09-14 10:43:15,494 - nopcommerce -INFO - closed the browser
+2021-09-14 10:43:18,806 - nopcommerce -INFO - launching chrome browser
+2021-09-14 10:43:18,808 - nopcommerce -INFO - opening the url
+2021-09-14 10:43:21,954 - nopcommerce -INFO - providing login details
+2021-09-14 10:43:23,272 - nopcommerce -INFO - clicked on ,login
+2021-09-14 10:43:23,915 - nopcommerce -INFO - Login failed
+2021-09-20 14:41:17,407 - nopcommerce -INFO - launching chrome browser
+2021-09-20 14:41:17,522 - nopcommerce -INFO - opening the url
+2021-09-20 14:41:19,546 - nopcommerce -INFO - providing login details
+2021-09-20 14:41:25,872 - nopcommerce -INFO - clicked on ,login
+2021-09-20 14:41:38,089 - nopcommerce -INFO - closed the browser
+2021-09-20 14:41:41,407 - nopcommerce -INFO - launching chrome browser
+2021-09-20 14:41:41,414 - nopcommerce -INFO - opening the url
+2021-09-20 14:41:43,024 - nopcommerce -INFO - providing login details
+2021-09-20 14:41:48,521 - nopcommerce -INFO - clicked on ,login
+2021-09-20 14:41:48,572 - nopcommerce -INFO - Login passed
+2021-09-20 14:41:50,749 - nopcommerce -INFO - clicked on logout
+2021-09-20 14:41:50,762 - nopcommerce -INFO - Login passed
+2021-09-20 14:41:51,276 - nopcommerce -INFO - closed the browser
+2021-09-20 14:45:47,285 - nopcommerce -INFO - launching chrome browser
+2021-09-20 14:45:47,380 - nopcommerce -INFO - opening the url
+2021-09-20 14:45:49,153 - nopcommerce -INFO - providing login details
+2021-09-20 14:45:55,612 - nopcommerce -INFO - clicked on ,login
+2021-09-20 14:46:07,662 - nopcommerce -INFO - closed the browser
+2021-09-20 14:46:11,038 - nopcommerce -INFO - launching chrome browser
+2021-09-20 14:46:11,042 - nopcommerce -INFO - opening the url
+2021-09-20 14:46:12,472 - nopcommerce -INFO - providing login details
+2021-09-20 14:46:20,810 - nopcommerce -INFO - clicked on ,login
+2021-09-20 14:46:20,933 - nopcommerce -INFO - Login passed
+2021-09-20 14:46:23,650 - nopcommerce -INFO - clicked on logout
+2021-09-20 14:46:23,664 - nopcommerce -INFO - Login passed
+2021-09-20 14:46:24,153 - nopcommerce -INFO - closed the browser
+2021-09-20 16:28:22,516 - nopcommerce -INFO - launching chrome browser
+2021-09-20 16:28:22,580 - nopcommerce -INFO - opening the url
+2021-09-20 16:28:27,439 - nopcommerce -INFO - launching chrome browser
+2021-09-20 16:28:27,445 - nopcommerce -INFO - opening the url
+2021-09-20 16:38:11,957 - nopcommerce -INFO - launching chrome browser
+2021-09-20 16:38:12,045 - nopcommerce -INFO - opening the url
+2021-09-20 16:38:16,772 - nopcommerce -INFO - launching chrome browser
+2021-09-20 16:38:16,777 - nopcommerce -INFO - opening the url
+2021-09-20 16:38:35,159 - nopcommerce -INFO - launching chrome browser
+2021-09-20 16:38:35,240 - nopcommerce -INFO - opening the url
+2021-09-20 16:38:37,379 - nopcommerce -INFO - providing login details
+2021-09-20 16:38:44,105 - nopcommerce -INFO - clicked on ,login
+2021-09-20 16:38:56,667 - nopcommerce -INFO - closed the browser
+2021-09-20 16:38:59,977 - nopcommerce -INFO - launching chrome browser
+2021-09-20 16:38:59,981 - nopcommerce -INFO - opening the url
+2021-09-20 16:39:03,755 - nopcommerce -INFO - providing login details
+2021-09-20 16:39:09,963 - nopcommerce -INFO - clicked on ,login
+2021-09-20 16:39:10,040 - nopcommerce -INFO - Login passed
+2021-09-20 16:39:12,531 - nopcommerce -INFO - clicked on logout
+2021-09-20 16:39:12,542 - nopcommerce -INFO - Login passed
+2021-09-20 16:39:13,039 - nopcommerce -INFO - closed the browser
+2021-09-21 17:44:02,831 - nopcommerce -INFO - launching chrome browser
+2021-09-21 17:44:02,908 - nopcommerce -INFO - opening the url
+2021-09-21 17:44:05,075 - nopcommerce -INFO - providing login details
+2021-09-21 17:44:12,008 - nopcommerce -INFO - clicked on ,login
+2021-09-21 17:44:24,873 - nopcommerce -INFO - closed the browser
+2021-09-21 17:44:28,262 - nopcommerce -INFO - launching chrome browser
+2021-09-21 17:44:28,266 - nopcommerce -INFO - opening the url
+2021-09-21 17:44:31,939 - nopcommerce -INFO - providing login details
+2021-09-21 17:44:39,467 - nopcommerce -INFO - clicked on ,login
+2021-09-21 17:44:39,554 - nopcommerce -INFO - Login passed
+2021-09-21 17:44:41,670 - nopcommerce -INFO - clicked on logout
+2021-09-21 17:44:41,684 - nopcommerce -INFO - Login passed
+2021-09-21 17:44:42,202 - nopcommerce -INFO - closed the browser
+2021-09-21 17:49:10,857 - nopcommerce -INFO - launching chrome browser
+2021-09-21 17:49:10,933 - nopcommerce -INFO - opening the url
+2021-09-21 17:49:13,034 - nopcommerce -INFO - providing login details
+2021-09-21 17:49:18,578 - nopcommerce -INFO - clicked on ,login
+2021-09-21 17:49:31,390 - nopcommerce -INFO - closed the browser
+2021-09-21 17:49:34,702 - nopcommerce -INFO - launching chrome browser
+2021-09-21 17:49:34,706 - nopcommerce -INFO - opening the url
+2021-09-21 17:49:35,991 - nopcommerce -INFO - providing login details
+2021-09-21 17:49:40,722 - nopcommerce -INFO - clicked on ,login
+2021-09-21 17:49:40,795 - nopcommerce -INFO - Login passed
+2021-09-21 17:49:43,118 - nopcommerce -INFO - clicked on logout
+2021-09-21 17:49:43,132 - nopcommerce -INFO - Login passed
+2021-09-21 17:49:43,504 - nopcommerce -INFO - closed the browser

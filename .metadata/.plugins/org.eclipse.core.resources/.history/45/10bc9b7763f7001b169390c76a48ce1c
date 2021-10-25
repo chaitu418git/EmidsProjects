@@ -1,0 +1,13 @@
+package practice9;
+
+public class RevEachWord {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+String s="hello world test";
+String revString="";
+String[] strarray=s.split(" ");
+
+	}
+
+}

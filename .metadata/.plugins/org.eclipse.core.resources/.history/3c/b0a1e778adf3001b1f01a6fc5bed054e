@@ -1,0 +1,57 @@
+package pageObjects;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.CacheLookup;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
+import org.openqa.selenium.support.PageFactory;
+
+import utilities.WaitHelper;
+
+public class SearchCustomerPage {
+	public WebDriver ldriver;
+	public WaitHelper waithelper;
+	public SearchCustomerPage(WebDriver rdriver)
+	{
+		ldriver=rdriver;
+		PageFactory.initElements(rdriver,this);
+		waithelper=new WaitHelper(ldriver);
+	}
+	
+	@FindBy(how = How.ID, using ="SearchEmail")
+	@CacheLookup
+	WebElement txtEmail;
+	
+	@FindBy(how = How.ID,using ="SearchFirstName")
+	@CacheLookup
+	WebElement txtFname;
+	
+	@FindBy(how = How.ID,using ="SearchLastName")
+	@CacheLookup
+	WebElement txtLname;
+	
+	@FindBy(how = How.ID,using ="SearchCompany")
+	@CacheLookup
+	WebElement txtCompany;
+	
+	@FindBy(how = How.ID,using ="SearchMonthOfBirth")
+	@CacheLookup
+	WebElement txtSearchMonthOfBirth;
+	
+	@FindBy(how = How.ID,using ="SearchDayOfBirth")
+	@CacheLookup
+	WebElement txtSearchDayOfBirth;
+	
+	@FindBy(how = How.XPATH,using ="//ul[@id='SelectedCustomerRoleIds_taglist']/li/span[contains(text(),'Registered')]")
+	@CacheLookup
+	WebElement listitemRegistered;
+	
+	
+	//ul[@id='SelectedCustomerRoleIds_taglist']/li/span[contains(text(),'Registered')]
+	
+	
+	
+	
+	
+}

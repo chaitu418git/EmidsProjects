@@ -1,0 +1,26 @@
+package practice12;
+
+import java.util.Scanner;
+
+public class PrimeCheckk {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+Scanner sc=new Scanner(System.in);
+System.out.println("Enter a number");
+int num=sc.nextInt();
+if(isPrime(num))
+{
+	System.out.println("Given num is a prime num");
+}
+else
+{
+	System.out.println("Gicven num is not a prime num");
+}
+	}
+	public static void isPrime(int num)
+	{
+		
+	}
+
+}

@@ -1,0 +1,10 @@
+package practice10;
+
+public class ReverseNumbers {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

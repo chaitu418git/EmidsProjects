@@ -1,0 +1,10 @@
+package practice9;
+
+public class PrintEvenOdd {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

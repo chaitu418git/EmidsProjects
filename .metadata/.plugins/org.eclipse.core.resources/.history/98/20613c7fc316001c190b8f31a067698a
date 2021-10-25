@@ -1,0 +1,10 @@
+package practice16;
+
+public class RevNumber {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

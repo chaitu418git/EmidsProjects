@@ -1,0 +1,31 @@
+package stepDefinitions;
+
+import org.apache.commons.lang3.RandomStringUtils;
+import org.openqa.selenium.WebDriver;
+
+import pageObjects.AddCustomer;
+import pageObjects.LoginPage;
+import pageObjects.SearchCustomer;
+
+
+
+public class BaseClass {
+
+	public WebDriver driver;
+	public LoginPage lp;
+	public AddCustomer addcust;
+	public AddCustomer addCust;
+	public SearchCustomer searcust;
+	public LoginPage lp;
+	public WebDriver driver;
+	
+	
+	
+	
+	//created for generating random string for unoque emailid for every customer
+	public static String randomString()
+	{
+		String generatedString=RandomStringUtils.randomAlphabetic(5);
+		return generatedString;
+	}
+}

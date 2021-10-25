@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner (3)" project="SeleniumCucumber" tests="3" started="3" failures="1" errors="0" ignored="0">
+  <testsuite name="testRunner.TestRunner" time="39.239">
+    <testsuite name="Login" time="39.239">
+      <testcase name="Successfull Login with Valid credentials #1" classname="Login" time="16.239"/>
+      <testcase name="Successfull Login with Valid credentials #2" classname="Login" time="16.978"/>
+      <testcase name="Successfull Login with Valid credentials #3" classname="Login" time="6.022">
+        <failure>java.lang.AssertionError: expected [true] but found [false]&#13;
+	at org.testng.Assert.fail(Assert.java:99)&#13;
+	at org.testng.Assert.failNotEquals(Assert.java:1037)&#13;
+	at org.testng.Assert.assertTrue(Assert.java:45)&#13;
+	at org.testng.Assert.assertTrue(Assert.java:55)&#13;
+	at stepDefinitions.Steps.page_title_should_be(Steps.java:46)&#13;
+	at ✽.page title should be "Dashboard / nopCommerce administration"(file:///D:/Users/XP.Chaitanya.Buddi/eclipse-workspace/SeleniumCucumber/./Features/Login.feature:17)&#13;
+&#13;
+</failure>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

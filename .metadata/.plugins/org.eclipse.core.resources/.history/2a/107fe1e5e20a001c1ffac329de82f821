@@ -1,0 +1,20 @@
+package practice13;
+
+public class PrimePrint {
+public static boolean isPrime(int num)
+{
+	if(num<=1)
+	{
+		return false;
+	}
+	for(int i=2;i<=num;i++)
+	{
+		if()
+	}
+}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

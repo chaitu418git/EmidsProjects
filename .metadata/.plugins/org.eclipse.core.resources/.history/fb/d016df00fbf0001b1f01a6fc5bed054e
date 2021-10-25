@@ -1,0 +1,14 @@
+package practice6;
+
+import java.util.HashMap;
+
+public class RepCharsCountUsingHashMap {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String s="ttwgrgwytwhewyhsaddfsghgdwqqwesahe";
+HashMap<Character, Integer> hm=new HashMap<Character, Integer>();
+
+	}
+
+}

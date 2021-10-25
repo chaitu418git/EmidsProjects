@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner (3)" project="SeleniumCucumber" tests="3" started="3" failures="0" errors="3" ignored="0">
+  <testsuite name="testRunner.TestRunner" time="0.353">
+    <testsuite name="Login" time="0.353">
+      <testcase name="Successfull Login with Valid credentials #1" classname="Login" time="0.296">
+        <error>java.lang.NullPointerException&#13;
+	at stepDefinitions.BaseClass.getProp(BaseClass.java:40)&#13;
+	at stepDefinitions.Steps.setUp(Steps.java:28)&#13;
+&#13;
+</error>
+      </testcase>
+      <testcase name="Successfull Login with Valid credentials #2" classname="Login" time="0.027">
+        <error>java.lang.NullPointerException&#13;
+	at stepDefinitions.BaseClass.getProp(BaseClass.java:40)&#13;
+	at stepDefinitions.Steps.setUp(Steps.java:28)&#13;
+&#13;
+</error>
+      </testcase>
+      <testcase name="Successfull Login with Valid credentials #3" classname="Login" time="0.027">
+        <error>java.lang.NullPointerException&#13;
+	at stepDefinitions.BaseClass.getProp(BaseClass.java:40)&#13;
+	at stepDefinitions.Steps.setUp(Steps.java:28)&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

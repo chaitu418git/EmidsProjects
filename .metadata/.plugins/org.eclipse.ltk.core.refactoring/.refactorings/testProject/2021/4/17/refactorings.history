@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;testProj.testProject.WorkingWithJson&apos; to &apos;AddingJsontoFile&apos;&#x0D;&#x0A;- Original project: &apos;testProject&apos;&#x0D;&#x0A;- Original element: &apos;testProj.testProject.WorkingWithJson&apos;&#x0D;&#x0A;- Renamed element: &apos;testProj.testProject.AddingJsontoFile&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;WorkingWithJson&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java&lt;testProj.testProject{WorkingWithJson.java[WorkingWithJson" matchStrategy="1" name="AddingJsontoFile" qualified="false" references="true" similarDeclarations="false" stamp="1618820181309" textual="false" version="1.0"/>
+</session>

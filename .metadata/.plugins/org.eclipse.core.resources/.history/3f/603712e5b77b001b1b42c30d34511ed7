@@ -1,0 +1,12 @@
+package finalPractice;
+
+public class RemoveWhiteSpaces {
+
+	public static void main(String[] args) {
+		String givenSTring="Test Test";
+		STring withoutSpaces=givenSTring.replaceAll(" ", "");
+		System.out.println(withoutSpaces);
+
+	}
+
+}

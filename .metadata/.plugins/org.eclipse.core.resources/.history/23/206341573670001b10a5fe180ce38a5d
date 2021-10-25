@@ -1,0 +1,16 @@
+package practice;
+
+public class PalindromeReverse {
+
+	public static void main(String[] args) {
+		String originialstring="madam";
+		String reversestring="";
+		for(int i=originialstring.length()-1;i>=0;i--)
+		{
+			reversestring=reversestring+originialstring.charAt(i);
+		}
+		System.out.println(reversestring);
+
+	}
+
+}

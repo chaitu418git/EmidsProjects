@@ -1,0 +1,22 @@
+package practice14;
+
+import java.util.Scanner;
+
+public class PrimeCheck {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+Scanner sc=new Scanner(System.in);
+System.out.println("Enter the num to check the prime or not");
+	int num=sc.nextInt();
+	if(isPrime(int num))
+	{
+		System.out.println("Given num is a prime number");
+	}
+	else
+	{
+		System.out.println("Given num is not a prime number");
+	}
+	}
+
+}

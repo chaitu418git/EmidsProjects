@@ -1,0 +1,20 @@
+package test1;
+
+import org.testng.annotations.Test;
+
+public class Day3 {
+	@Test
+	public void day3mngdemo()
+	{
+		System.out.println("day 3 mng demo");
+		
+	}
+
+	@Test
+	public void day3evngdemo()
+	{
+		System.out.println("day 3 evnbg demo");
+		
+		//Assert.assertTrue(false);
+	}
+}

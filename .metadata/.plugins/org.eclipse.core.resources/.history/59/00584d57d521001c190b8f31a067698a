@@ -1,0 +1,11 @@
+package practice17;
+
+public class UnqEleWithHashMap {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int arr[] = { 1, 5, 9, 1, 4, 9, 6, 5, 9, 1,7 };
+
+	}
+
+}

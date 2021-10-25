@@ -1,0 +1,166 @@
+2021-09-13 17:32:01,991 [main] INFO nopcommerce - launching browser
+2021-09-13 17:32:02,208 [main] INFO nopcommerce - opening the url
+2021-09-13 17:32:03,725 [main] INFO nopcommerce - providing login details
+2021-09-13 17:32:10,440 [main] INFO nopcommerce - clicked on ,login
+2021-09-13 17:32:22,110 [main] INFO nopcommerce - closed the browser
+2021-09-13 17:32:25,424 [main] INFO nopcommerce - launching browser
+2021-09-13 17:32:25,549 [main] INFO nopcommerce - opening the url
+2021-09-13 17:32:26,623 [main] INFO nopcommerce - providing login details
+2021-09-13 17:32:31,266 [main] INFO nopcommerce - clicked on ,login
+2021-09-13 17:32:35,794 [main] INFO nopcommerce - closed the browser
+2021-09-13 17:36:57,948 [main] INFO nopcommerce - launching browser
+2021-09-13 17:36:58,147 [main] INFO nopcommerce - opening the url
+2021-09-13 17:36:59,411 [main] INFO nopcommerce - providing login details
+2021-09-13 17:37:04,364 [main] INFO nopcommerce - clicked on ,login
+2021-09-13 17:37:16,876 [main] INFO nopcommerce - closed the browser
+2021-09-13 17:37:20,219 [main] INFO nopcommerce - launching browser
+2021-09-13 17:37:20,346 [main] INFO nopcommerce - opening the url
+2021-09-13 17:37:24,329 [main] INFO nopcommerce - providing login details
+2021-09-13 17:37:31,748 [main] INFO nopcommerce - clicked on ,login
+2021-09-13 17:37:37,261 [main] INFO nopcommerce - closed the browser
+2021-09-13 17:37:40,457 [main] INFO nopcommerce - launching browser
+2021-09-13 17:37:40,582 [main] INFO nopcommerce - opening the url
+2021-09-13 17:37:44,249 [main] INFO nopcommerce - providing login details
+2021-09-13 17:37:51,437 [main] INFO nopcommerce - clicked on ,login
+2021-09-13 17:37:51,504 [main] INFO nopcommerce - Login passed
+2021-09-13 17:37:53,405 [main] INFO nopcommerce - clicked on logout
+2021-09-13 17:37:53,419 [main] INFO nopcommerce - Login passed
+2021-09-13 17:37:54,098 [main] INFO nopcommerce - closed the browser
+2021-09-13 17:37:57,285 [main] INFO nopcommerce - launching browser
+2021-09-13 17:37:57,415 [main] INFO nopcommerce - opening the url
+2021-09-13 17:38:02,003 [main] INFO nopcommerce - providing login details
+2021-09-13 17:38:08,228 [main] INFO nopcommerce - clicked on ,login
+2021-09-13 17:38:08,283 [main] INFO nopcommerce - Login passed
+2021-09-13 17:38:10,388 [main] INFO nopcommerce - clicked on logout
+2021-09-13 17:38:10,401 [main] INFO nopcommerce - Login passed
+2021-09-13 17:38:10,950 [main] INFO nopcommerce - closed the browser
+2021-09-13 17:38:14,162 [main] INFO nopcommerce - launching browser
+2021-09-13 17:38:14,294 [main] INFO nopcommerce - opening the url
+2021-09-13 17:38:15,816 [main] INFO nopcommerce - providing login details
+2021-09-13 17:38:16,817 [main] INFO nopcommerce - clicked on ,login
+2021-09-13 17:38:17,196 [main] INFO nopcommerce - Login failed
+2021-09-13 18:08:47,589 [main] INFO nopcommerce - launching chrome browser
+2021-09-13 18:08:47,652 [main] INFO nopcommerce - opening the url
+2021-09-13 18:08:49,473 [main] INFO nopcommerce - providing login details
+2021-09-13 18:08:56,469 [main] INFO nopcommerce - clicked on ,login
+2021-09-13 18:08:56,537 [main] INFO nopcommerce - Login passed
+2021-09-13 18:08:58,019 [main] INFO nopcommerce - clicked on logout
+2021-09-13 18:08:58,036 [main] INFO nopcommerce - Login passed
+2021-09-13 18:08:58,569 [main] INFO nopcommerce - closed the browser
+2021-09-13 18:09:01,765 [main] INFO nopcommerce - launching chrome browser
+2021-09-13 18:09:01,768 [main] INFO nopcommerce - opening the url
+2021-09-13 18:09:04,175 [main] INFO nopcommerce - providing login details
+2021-09-13 18:09:09,547 [main] INFO nopcommerce - clicked on ,login
+2021-09-13 18:09:09,636 [main] INFO nopcommerce - Login passed
+2021-09-13 18:09:12,147 [main] INFO nopcommerce - clicked on logout
+2021-09-13 18:09:12,162 [main] INFO nopcommerce - Login passed
+2021-09-13 18:09:12,714 [main] INFO nopcommerce - closed the browser
+2021-09-13 18:09:15,920 [main] INFO nopcommerce - launching chrome browser
+2021-09-13 18:09:15,925 [main] INFO nopcommerce - opening the url
+2021-09-13 18:09:17,285 [main] INFO nopcommerce - providing login details
+2021-09-13 18:09:18,378 [main] INFO nopcommerce - clicked on ,login
+2021-09-13 18:09:18,973 [main] INFO nopcommerce - Login failed
+2021-09-14 10:38:35,339 [main] INFO nopcommerce - launching chrome browser
+2021-09-14 10:38:35,401 [main] INFO nopcommerce - opening the url
+2021-09-14 10:38:39,134 [main] INFO nopcommerce - providing login details
+2021-09-14 10:38:45,931 [main] INFO nopcommerce - clicked on ,login
+2021-09-14 10:38:59,439 [main] INFO nopcommerce - closed the browser
+2021-09-14 10:39:02,810 [main] INFO nopcommerce - launching chrome browser
+2021-09-14 10:39:02,814 [main] INFO nopcommerce - opening the url
+2021-09-14 10:39:04,338 [main] INFO nopcommerce - providing login details
+2021-09-14 10:39:09,545 [main] INFO nopcommerce - clicked on ,login
+2021-09-14 10:39:09,616 [main] INFO nopcommerce - Login passed
+2021-09-14 10:39:11,953 [main] INFO nopcommerce - clicked on logout
+2021-09-14 10:39:11,966 [main] INFO nopcommerce - Login passed
+2021-09-14 10:39:12,482 [main] INFO nopcommerce - closed the browser
+2021-09-14 10:42:50,787 [main] INFO nopcommerce - launching chrome browser
+2021-09-14 10:42:50,860 [main] INFO nopcommerce - opening the url
+2021-09-14 10:42:54,037 [main] INFO nopcommerce - providing login details
+2021-09-14 10:42:59,263 [main] INFO nopcommerce - clicked on ,login
+2021-09-14 10:43:03,605 [main] INFO nopcommerce - closed the browser
+2021-09-14 10:43:06,920 [main] INFO nopcommerce - launching chrome browser
+2021-09-14 10:43:06,923 [main] INFO nopcommerce - opening the url
+2021-09-14 10:43:08,544 [main] INFO nopcommerce - providing login details
+2021-09-14 10:43:13,309 [main] INFO nopcommerce - clicked on ,login
+2021-09-14 10:43:13,380 [main] INFO nopcommerce - Login passed
+2021-09-14 10:43:15,120 [main] INFO nopcommerce - clicked on logout
+2021-09-14 10:43:15,133 [main] INFO nopcommerce - Login passed
+2021-09-14 10:43:15,494 [main] INFO nopcommerce - closed the browser
+2021-09-14 10:43:18,806 [main] INFO nopcommerce - launching chrome browser
+2021-09-14 10:43:18,808 [main] INFO nopcommerce - opening the url
+2021-09-14 10:43:21,954 [main] INFO nopcommerce - providing login details
+2021-09-14 10:43:23,272 [main] INFO nopcommerce - clicked on ,login
+2021-09-14 10:43:23,915 [main] INFO nopcommerce - Login failed
+2021-09-20 14:41:17,407 [main] INFO nopcommerce - launching chrome browser
+2021-09-20 14:41:17,522 [main] INFO nopcommerce - opening the url
+2021-09-20 14:41:19,546 [main] INFO nopcommerce - providing login details
+2021-09-20 14:41:25,872 [main] INFO nopcommerce - clicked on ,login
+2021-09-20 14:41:38,089 [main] INFO nopcommerce - closed the browser
+2021-09-20 14:41:41,407 [main] INFO nopcommerce - launching chrome browser
+2021-09-20 14:41:41,414 [main] INFO nopcommerce - opening the url
+2021-09-20 14:41:43,024 [main] INFO nopcommerce - providing login details
+2021-09-20 14:41:48,521 [main] INFO nopcommerce - clicked on ,login
+2021-09-20 14:41:48,572 [main] INFO nopcommerce - Login passed
+2021-09-20 14:41:50,749 [main] INFO nopcommerce - clicked on logout
+2021-09-20 14:41:50,762 [main] INFO nopcommerce - Login passed
+2021-09-20 14:41:51,276 [main] INFO nopcommerce - closed the browser
+2021-09-20 14:45:47,285 [main] INFO nopcommerce - launching chrome browser
+2021-09-20 14:45:47,380 [main] INFO nopcommerce - opening the url
+2021-09-20 14:45:49,153 [main] INFO nopcommerce - providing login details
+2021-09-20 14:45:55,612 [main] INFO nopcommerce - clicked on ,login
+2021-09-20 14:46:07,662 [main] INFO nopcommerce - closed the browser
+2021-09-20 14:46:11,038 [main] INFO nopcommerce - launching chrome browser
+2021-09-20 14:46:11,042 [main] INFO nopcommerce - opening the url
+2021-09-20 14:46:12,472 [main] INFO nopcommerce - providing login details
+2021-09-20 14:46:20,810 [main] INFO nopcommerce - clicked on ,login
+2021-09-20 14:46:20,933 [main] INFO nopcommerce - Login passed
+2021-09-20 14:46:23,650 [main] INFO nopcommerce - clicked on logout
+2021-09-20 14:46:23,664 [main] INFO nopcommerce - Login passed
+2021-09-20 14:46:24,153 [main] INFO nopcommerce - closed the browser
+2021-09-20 16:28:22,516 [main] INFO nopcommerce - launching chrome browser
+2021-09-20 16:28:22,580 [main] INFO nopcommerce - opening the url
+2021-09-20 16:28:27,439 [main] INFO nopcommerce - launching chrome browser
+2021-09-20 16:28:27,445 [main] INFO nopcommerce - opening the url
+2021-09-20 16:38:11,957 [main] INFO nopcommerce - launching chrome browser
+2021-09-20 16:38:12,045 [main] INFO nopcommerce - opening the url
+2021-09-20 16:38:16,772 [main] INFO nopcommerce - launching chrome browser
+2021-09-20 16:38:16,777 [main] INFO nopcommerce - opening the url
+2021-09-20 16:38:35,159 [main] INFO nopcommerce - launching chrome browser
+2021-09-20 16:38:35,240 [main] INFO nopcommerce - opening the url
+2021-09-20 16:38:37,379 [main] INFO nopcommerce - providing login details
+2021-09-20 16:38:44,105 [main] INFO nopcommerce - clicked on ,login
+2021-09-20 16:38:56,667 [main] INFO nopcommerce - closed the browser
+2021-09-20 16:38:59,977 [main] INFO nopcommerce - launching chrome browser
+2021-09-20 16:38:59,981 [main] INFO nopcommerce - opening the url
+2021-09-20 16:39:03,755 [main] INFO nopcommerce - providing login details
+2021-09-20 16:39:09,963 [main] INFO nopcommerce - clicked on ,login
+2021-09-20 16:39:10,040 [main] INFO nopcommerce - Login passed
+2021-09-20 16:39:12,531 [main] INFO nopcommerce - clicked on logout
+2021-09-20 16:39:12,542 [main] INFO nopcommerce - Login passed
+2021-09-20 16:39:13,039 [main] INFO nopcommerce - closed the browser
+2021-09-21 17:44:02,831 [main] INFO nopcommerce - launching chrome browser
+2021-09-21 17:44:02,908 [main] INFO nopcommerce - opening the url
+2021-09-21 17:44:05,075 [main] INFO nopcommerce - providing login details
+2021-09-21 17:44:12,008 [main] INFO nopcommerce - clicked on ,login
+2021-09-21 17:44:24,873 [main] INFO nopcommerce - closed the browser
+2021-09-21 17:44:28,262 [main] INFO nopcommerce - launching chrome browser
+2021-09-21 17:44:28,266 [main] INFO nopcommerce - opening the url
+2021-09-21 17:44:31,939 [main] INFO nopcommerce - providing login details
+2021-09-21 17:44:39,467 [main] INFO nopcommerce - clicked on ,login
+2021-09-21 17:44:39,554 [main] INFO nopcommerce - Login passed
+2021-09-21 17:44:41,670 [main] INFO nopcommerce - clicked on logout
+2021-09-21 17:44:41,684 [main] INFO nopcommerce - Login passed
+2021-09-21 17:44:42,202 [main] INFO nopcommerce - closed the browser
+2021-09-21 17:49:10,857 [main] INFO nopcommerce - launching chrome browser
+2021-09-21 17:49:10,933 [main] INFO nopcommerce - opening the url
+2021-09-21 17:49:13,034 [main] INFO nopcommerce - providing login details
+2021-09-21 17:49:18,578 [main] INFO nopcommerce - clicked on ,login
+2021-09-21 17:49:31,390 [main] INFO nopcommerce - closed the browser
+2021-09-21 17:49:34,702 [main] INFO nopcommerce - launching chrome browser
+2021-09-21 17:49:34,706 [main] INFO nopcommerce - opening the url
+2021-09-21 17:49:35,991 [main] INFO nopcommerce - providing login details
+2021-09-21 17:49:40,722 [main] INFO nopcommerce - clicked on ,login
+2021-09-21 17:49:40,795 [main] INFO nopcommerce - Login passed
+2021-09-21 17:49:43,118 [main] INFO nopcommerce - clicked on logout
+2021-09-21 17:49:43,132 [main] INFO nopcommerce - Login passed
+2021-09-21 17:49:43,504 [main] INFO nopcommerce - closed the browser

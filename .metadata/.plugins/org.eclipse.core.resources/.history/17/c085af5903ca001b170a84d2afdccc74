@@ -1,0 +1,29 @@
+package javaprograms;
+
+public class ChildClass extends ParentClass{
+
+	public void action()
+	{
+		System.out.println("cc action");
+	}
+	public void gear() {
+		System.out.println("cc gear");
+	}
+	public void specific()
+	{
+		System.out.println("cc specific");
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ChildClass cc=new ChildClass();
+		cc.action();
+		cc.gear();
+		cc.specific();
+		ParentClass pc=new ChildClass();
+		pc.action();
+		pc.gear();
+		pc.vehicle();
+		
+	}
+
+}

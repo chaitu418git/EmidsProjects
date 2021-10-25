@@ -1,0 +1,10 @@
+package practice15;
+
+public class FloydTriangle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

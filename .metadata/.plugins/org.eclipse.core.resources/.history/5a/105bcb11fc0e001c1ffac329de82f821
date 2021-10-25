@@ -1,0 +1,11 @@
+Feature: Customers
+Scenario: Add a new Customer  
+ When user click on Customers Menu
+ And click on customers Menu Item
+ And user landed on Customers Page
+ And click on Add New Button
+ Then user can view Add new customer page
+ When user enters customer info
+ And click on save button
+ Then user can view confirmation message as "The new customer has been added successfully."
+ And close browser

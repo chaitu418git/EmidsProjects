@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner (3)" project="SeleniumCucumber" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="testRunner.TestRunner" time="15.402">
+    <testsuite name="Login" time="15.402">
+      <testcase name="Successfull Login with Valid credentials" classname="Login" time="15.402"/>
+    </testsuite>
+  </testsuite>
+</testrun>

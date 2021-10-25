@@ -1,0 +1,13 @@
+package programsPract;
+
+public class DupplicatesFromString {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+String str="abababioioiokalmnba";
+int count=0;
+char[] string=str.toCharArray();
+
+	}
+
+}

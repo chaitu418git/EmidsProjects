@@ -1,0 +1,12 @@
+package practice14;
+
+public class CountCharsinString {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String s="gshgfyyrwutrwgr  yewuf   etfd sfhsgfhuetwyruvcvqe";
+char[] ch=s.toCharArray();
+
+	}
+
+}

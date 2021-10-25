@@ -1,0 +1,56 @@
+package pageObjects;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.PageFactory;
+
+public class AddCustomerPage {
+	public WebDriver ldriver;
+	public AddCustomerPage(WebDriver rdriver)
+	{
+		ldriver=rdriver;
+		PageFactory.initElements(rdriver,this);
+	}
+	
+	By dashboard=By.xpath("//div[@class='content-header']");
+	By cutomermenulink=By.xpath("//li[@class='nav-item has-treeview']/a/p[contains(text(),'Customers')]");
+	By cutomermenuitem=By.xpath("//li[@class='nav-item has-treeview menu-open']//li/a/p[contains(text(),'Customers')]");
+	By customerspage=By.xpath("//div[@class='content-header clearfix']/h1");
+	By addbutton=By.xpath("//a[@class='btn btn-primary']");
+	By addnewcustpage=By.xpath("//div[@class='content-header clearfix']/h1[@class='float-left']");
+	By txtEmail=By.id("Email");
+	By txtPassword=By.id("Password");
+	By txtFirstName=By.id("FirstName");
+	By txtLastName=By.id("LastName");
+	By radioMale=By.id("Gender_Male");
+	By radioFemale=By.id("Gender_Female");
+	By newsletter=By.xpath("//div[@class='k-widget k-multiselect k-multiselect-clearable']//select[@id='SelectedNewsletterSubscriptionStoreIds']");
+	By dropdown_VendorId=By.id("VendorId");
+	By dob=By.xpath("//input[@id='DateOfBirth']");
+	By txt_company=By.id("Company");
+	By checkbox_taxExempt=By.id("IsTaxExempt");
+	By checkbox_active=By.id("Active");
+	By txtadminCommnet=By.id("AdminComment");
+	By but_save=By.name("save");
+	
+	//Action Methods
+	public void clickCustomeMenuLink()
+	{
+		ldriver.findElement(cutomermenulink).click();
+	}
+	public void clickCustomeMenuItem()
+	{
+		ldriver.findElement(cutomermenuitem).click();
+	}
+	public void addNew()
+	{
+		ldriver.findElement(addbutton).click();
+	}
+	public void setEmail(String email)
+	{
+		ldriver.findElement(txtEmail).sendKeys(email);
+	}
+	
+	
+	
+}

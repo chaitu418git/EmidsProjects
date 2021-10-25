@@ -1,0 +1,23 @@
+package testPack;
+
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class SvgGraphs {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.setProperty("webdriver.chrome.driver", "D:\\chromedriver_win32 (3)\\chromedriver.exe");
+		WebDriver driver=new ChromeDriver();
+		driver.get("https://emicalculator.net/");
+		driver.manage().window().maximize();
+		List<WebElement> totalList = driver.findElements(By.xpath("//*[name()='svg']//*[name()='g' and @class='highcharts-series-group']//*[name()='rect']"));
+		System.out.println(totalList.size());
+		driver.close();
+	}
+
+}

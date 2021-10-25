@@ -1,0 +1,20 @@
+package practicee;
+
+import practice.HashMapCountEachCharacter;
+
+public class CountNumofWordsinHashMap {
+
+	public static void main(String[] args) {
+		
+
+		String inputSTring="This is this is test java test";
+		String[] strArray=inputSTring.split(" ");
+		
+		for(int i=0;i<strArray.length;i++)
+		{
+			if
+		}
+
+	}
+
+}

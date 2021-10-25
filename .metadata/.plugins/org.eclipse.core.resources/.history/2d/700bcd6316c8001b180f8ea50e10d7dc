@@ -1,0 +1,14 @@
+package javaprograms;
+
+public class PyramidTriangle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+/*1234
+ *456
+ *78
+ *9 
+ */
+	}
+
+}

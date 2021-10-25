@@ -1,0 +1,16 @@
+package practice9;
+
+public class FactNumCheck {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int num=121;
+int i=0;
+do {
+	i++;
+	num=num/i;
+} while (num>1);
+System.out.println(i);
+	}
+
+}

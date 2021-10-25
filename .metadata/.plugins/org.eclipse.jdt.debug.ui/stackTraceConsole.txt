@@ -1,0 +1,8 @@
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertTrue(Assert.java:45)
+	at org.testng.Assert.assertTrue(Assert.java:55)
+	at stepDefinitions.Steps.search_results_related_to_first_name_will_be_displayed(Steps.java:147)
+	at ?.search results related to FirstName "a" will be displayed(file:///D:/Users/XP.Chaitanya.Buddi/eclipse-workspace/CucumberSelenium/./Features/Customers.feature:36)
+

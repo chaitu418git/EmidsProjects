@@ -1,0 +1,30 @@
+package utilities;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+
+public class CommonMethods {
+
+	
+
+		public static int getColumnIndex(WebDriver driver,String columnName)
+		{
+			int columns=driver.findElements(By.xpath("//table/thead/tr/td")).size();
+			int indexOfQuanity = 0;
+			for(int i=1;i<=columns;i++)
+			{
+				//System.out.println(driver.findElement(By.xpath("//table/thead/tr/td["+i+"]/b")).getText());
+				if(driver.findElement(By.xpath("//table/thead/tr/td["+i+"]/b")).getText().equalsIgnoreCase(columnName))
+						{
+					indexOfQuanity=i;
+					break;
+						}
+				
+		//System.out.println(driver.findElement(By.xpath("//table/thead/tr/td/b[text()='Quantiry']")).getSize());
+		}
+			return indexOfQuanity;
+		}
+
+	
+
+}

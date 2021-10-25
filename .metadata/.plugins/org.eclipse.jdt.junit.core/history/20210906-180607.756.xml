@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner (3)" project="SeleniumCucumber" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="testRunner.TestRunner" time="15.128">
+    <testsuite name="Customers" time="15.128">
+      <testcase name="Add a new Customer" classname="Customers" time="15.128">
+        <error>java.lang.NullPointerException&#13;
+	at pageObjects.AddCustomer.clickCustomeMenuLink(AddCustomer.java:54)&#13;
+	at stepDefinitions.Steps.user_click_on_customers_menu(Steps.java:75)&#13;
+	at ✽.user click on Customers Menu(file:///D:/Users/XP.Chaitanya.Buddi/eclipse-workspace/SeleniumCucumber/./Features/Customers.feature:8)&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

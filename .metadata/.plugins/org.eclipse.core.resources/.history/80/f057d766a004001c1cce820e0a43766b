@@ -1,0 +1,21 @@
+package practice11;
+
+public class PrimeCheck {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int num=8;
+int count=0;
+if(num>1)
+{
+	
+	
+}
+else
+{
+	System.out.println("Enter the number greater than 1 to check the num is prime or not");
+}
+for(int i=)
+	}
+
+}

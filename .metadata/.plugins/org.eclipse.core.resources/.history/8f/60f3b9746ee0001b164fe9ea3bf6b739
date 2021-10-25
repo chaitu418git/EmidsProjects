@@ -1,0 +1,21 @@
+package programsPract;
+
+public class PrintDuplicatesFromString {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+String s1="chaitiuao";
+String s2="";
+for(int i=0;i<s1.length()-1;i++)
+{
+	for(int j=1;j<s1.length();j++)
+	{
+		if(s1.charAt(i)==s1.charAt(j))
+		{
+			System.out.println(s1.charAt(i));
+		}
+	}
+}
+	}
+
+}

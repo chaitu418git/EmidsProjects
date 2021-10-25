@@ -1,0 +1,24 @@
+package practicee;
+
+public class FindFactorialValueforaGivenNumber {
+
+	public static void main(String[] args) {
+		int factorialnum=120;
+		int i=0;
+		
+		do
+		{
+			i++;
+			factorialnum=factorialnum/i;
+		}
+			while(factorialnum>i);
+			
+				
+			
+			
+			System.out.println(factorialnum);
+		}
+
+
+
+}

@@ -1,0 +1,13 @@
+package practicee;
+
+import java.util.ArrayList;
+
+public class SortingAge {
+
+	public static void main(String[] args) {
+		ArrayList<Employee> list=new ArrayList<Employee>();
+		list.add(new Employee("chaitu", 15, 20000));
+		list.add(new Employee("ravi", 30, 435));	
+	}
+
+}

@@ -1,0 +1,20 @@
+package practice8;
+
+public class CountWordsInString {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+String s="hello test new";
+int count=0;
+for(int i=s.length();i<0;i++)
+{
+	count=1;
+	if(s.charAt(i)==' ' & s.charAt(i+1)!=' ')
+	{
+		count++;
+	}
+}
+System.out.println(count);
+	}
+
+}

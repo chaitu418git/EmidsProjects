@@ -1,0 +1,12 @@
+package practice;
+
+public class PalindromeReverse {
+
+	public static void main(String[] args) {
+		String originialSTring="madam";
+		String reverseString="";
+		
+
+	}
+
+}
